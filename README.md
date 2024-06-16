@@ -200,6 +200,11 @@ Parvaj should work on Linux-based platforms, and also generally Unix-like ones (
 
 It should run on Windows as well, but not properly tested. By the way, it might be harder to install GHDL on Windows than WSL.
 
+## Learn More
+
+Training to install and use Parvaj for VHDL simulation -
+[YouTube](https://youtu.be/XO8GBVWERRI?si=rPiJIky8ZIt5a_cv) | [Aparat](https://www.aparat.com/v/CZyHf)
+
 ## Contributions? Of Course!
 
 Feel free to open an issue or create a pull request. You can also consider the to-do list below.
